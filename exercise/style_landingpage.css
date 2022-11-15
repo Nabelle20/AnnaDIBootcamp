@@ -1,0 +1,79 @@
+nav {
+    padding: 10px;
+}
+
+.nav-title{
+    padding: 2% 20%;  
+    text-align: center;
+    color: rgb(18, 17, 17);
+    font-weight: bold;
+}
+
+img {
+    width:50%;
+    height:50%
+}
+
+.nav-btn {
+    margin-left:80%;
+}  
+
+#main {
+    background-image: url('image/ocean_0.jpg');
+    width:100%;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
+
+#main-content {
+    text-align: center;
+    align-items: center;
+    padding:5% 20%;
+}
+
+#main-header {
+    padding:8%;
+    font-size:xx-large;
+    color: white;
+}
+
+button{
+    background-color:rgb(138, 179, 205);
+    border: none;
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
+
+input {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    padding: 0 15px;
+}
+
+.row {
+    margin: 20px 10px;
+}
+
+.card {
+    padding: 16px;
+    text-align: center;
+    margin: 15%;
+}
+
+.heading {
+    font-weight: bold;
+    font-size:large;
+    padding:10px;
+}
+
